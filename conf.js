@@ -33,7 +33,7 @@ jsproxy_config({
       }
     },
     '收费版': {
-      label: '当前站点',
+      label: '收费版',
       lines: {
         'node-cfworker-2.etherdream.com': 4,
       }
@@ -59,7 +59,7 @@ jsproxy_config({
   /**
    * 默认节点
    */
-  node_default: '收费版',
+  node_default: 'cfworker',
   // node_default: /jsproxy-demo\.\w+$/.test(location.host) ? 'demo-hk' : 'mysite',
 
   /**
