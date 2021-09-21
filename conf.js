@@ -17,7 +17,7 @@ jsproxy_config({
       lines: {
         // 主机:权重
         'cl.jinjf.workers.dev': 1,
-        'node-aliyun-hk-2.etherdream.com:8443': 2,
+        // 'node-aliyun-hk-2.etherdream.com:8443': 2,
       }
     },
     'demo-sg': {
